@@ -31,12 +31,12 @@ function cards(){
    
             />
                     <CardData
-         info=  {   { Image:a5,name:"resturent 5", position:"Njran"} }
+         info=  {   { Image:a5,name:"Resturent 5", position:"Njran"} }
          
    
             />
                     <CardData
-         info=  {   { Image:a6,name:"aresturent 6", position:"Khobar"} }
+         info=  {   { Image:a6,name:"Resturent 6", position:"Khobar"} }
          
    
             />
