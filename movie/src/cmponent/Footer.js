@@ -41,8 +41,12 @@ export default function Footer() {
 
 
   <div class="footer-copyright text-center py-3">© 2020 Copyright:
+
     <a href="/"> ahmed.com</a>
+    < a href='mailto:a-5amd@hotmail.com' target="_blank"><button type="button" class="btn btn-primary">send Email</button></a>
+        < a href='http://wa.me/+966556689647' target="_blank"><button type="button" class="btn btn-primary">whatsapp</button></a>
   </div>
+
 
 
 </footer>
